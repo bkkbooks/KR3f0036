@@ -1,0 +1,403 @@
+canonical_identifier: bkk:krp/KR3f0036/bkk/v1/markers/4
+seq: 4
+markers:
+  front:
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書五曹算經}
+  - {type: page-break, offset: 0, content: '', id: KR3f0036_WYG_004-1a, image: WYG0797/WYG0797-0188a.png}
+  - {type: variant, offset: 0, length: 0, content: '', krp: 欽定四庫全書五曹算經}
+  body:
+  - {type: variant, offset: 1, length: 1, content: 第, WYG: ''}
+  - {type: variant, offset: 1, length: 1, content: 第, krp: ''}
+  - {type: xml-element, offset: 3, content: '', id: KR3f0036_CHANT_004-bkkxmlele1}
+  - {type: 'tls:seg', offset: 3, content: '', id: KR3f0036_CHANT_004-1a.1}
+  - {type: 'tls:seg', offset: 3, content: '', id: KR3f0036_CHANT_004-1a.2}
+  - {type: xml-element, offset: 5, content: '', id: KR3f0036_CHANT_004-bkkxmlele2}
+  - {type: xml-element, offset: 5, content: '', id: KR3f0036_CHANT_004-bkkxmlele3}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR3f0036_CHANT_004-1a.3}
+  - {type: variant, offset: 5, length: 0, content: '', WYG: 衆既㑹集必務儲蓄故倉曹次之}
+  - {type: variant, offset: 5, length: 0, content: '', krp: 衆既㑹集必務儲蓄故倉曹次之}
+  - {type: variant, offset: 11, length: 1, content: 戶, WYG: 户}
+  - {type: variant, offset: 11, length: 1, content: 戶, krp: 户}
+  - {type: punctuation, offset: 12, content: ，, id: KR3f0036_CHANT_004-bkkpn1}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR3f0036_CHANT_004-1a.4}
+  - {type: variant, offset: 12, length: 1, content: 戶, WYG: 户}
+  - {type: variant, offset: 12, length: 1, content: 戶, krp: 户}
+  - {type: punctuation, offset: 20, content: 。, id: KR3f0036_CHANT_004-bkkpn2}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR3f0036_CHANT_004-1a.5}
+  - {type: punctuation, offset: 21, content: ：, id: KR3f0036_CHANT_004-bkkpn3}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR3f0036_CHANT_004-1a.6}
+  - {type: variant, offset: 22, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 22, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 24, content: ？, id: KR3f0036_CHANT_004-bkkpn4}
+  - {type: xml-element, offset: 24, content: '', id: KR3f0036_CHANT_004-bkkxmlele4}
+  - {type: xml-element, offset: 24, content: '', id: KR3f0036_CHANT_004-bkkxmlele5}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR3f0036_CHANT_004-1a.7}
+  - {type: variant, offset: 24, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 24, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 24, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 26, content: ：, id: KR3f0036_CHANT_004-bkkpn5}
+  - {type: 'tls:seg', offset: 26, content: '', id: KR3f0036_CHANT_004-1a.8}
+  - {type: punctuation, offset: 31, content: 。, id: KR3f0036_CHANT_004-bkkpn6}
+  - {type: xml-element, offset: 31, content: '', id: KR3f0036_CHANT_004-bkkxmlele6}
+  - {type: xml-element, offset: 31, content: '', id: KR3f0036_CHANT_004-bkkxmlele7}
+  - {type: 'tls:seg', offset: 31, content: '', id: KR3f0036_CHANT_004-2a.1}
+  - {type: 'tls:seg', offset: 31, content: '', id: KR3f0036_CHANT_004-2a.2}
+  - {type: variant, offset: 31, length: 0, content: '', WYG: 術曰列二千七百户以一十五斛乗之即得}
+  - {type: variant, offset: 31, length: 0, content: '', krp: 術曰列二千七百户以一十五斛乗之即得}
+  - {type: punctuation, offset: 38, content: ，, id: KR3f0036_CHANT_004-bkkpn7}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR3f0036_CHANT_004-2a.3}
+  - {type: punctuation, offset: 47, content: 。, id: KR3f0036_CHANT_004-bkkpn8}
+  - {type: 'tls:seg', offset: 47, content: '', id: KR3f0036_CHANT_004-2a.4}
+  - {type: punctuation, offset: 48, content: ：, id: KR3f0036_CHANT_004-bkkpn9}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR3f0036_CHANT_004-2a.5}
+  - {type: variant, offset: 49, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 49, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 51, content: ？, id: KR3f0036_CHANT_004-bkkpn10}
+  - {type: xml-element, offset: 51, content: '', id: KR3f0036_CHANT_004-bkkxmlele8}
+  - {type: xml-element, offset: 51, content: '', id: KR3f0036_CHANT_004-bkkxmlele9}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR3f0036_CHANT_004-2a.6}
+  - {type: variant, offset: 51, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 51, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 51, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: page-break, offset: 52, content: '', id: KR3f0036_WYG_004-1b, image: WYG0797/WYG0797-0188b.png}
+  - {type: punctuation, offset: 53, content: ：, id: KR3f0036_CHANT_004-bkkpn11}
+  - {type: 'tls:seg', offset: 53, content: '', id: KR3f0036_CHANT_004-2a.7}
+  - {type: punctuation, offset: 61, content: 。, id: KR3f0036_CHANT_004-bkkpn12}
+  - {type: xml-element, offset: 61, content: '', id: KR3f0036_CHANT_004-bkkxmlele10}
+  - {type: xml-element, offset: 61, content: '', id: KR3f0036_CHANT_004-bkkxmlele11}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR3f0036_CHANT_004-2a.8}
+  - {type: variant, offset: 61, length: 0, content: '', WYG: 術曰列田九百畝以二百四十步乗之得二十一萬六千步以三升二合乗之即得}
+  - {type: variant, offset: 61, length: 0, content: '', krp: 術曰列田九百畝以二百四十步乗之得二十一萬六千步以三升二合乗之即得}
+  - {type: punctuation, offset: 67, content: ，, id: KR3f0036_CHANT_004-bkkpn13}
+  - {type: 'tls:seg', offset: 67, content: '', id: KR3f0036_CHANT_004-2a.9}
+  - {type: punctuation, offset: 72, content: 。, id: KR3f0036_CHANT_004-bkkpn14}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3f0036_CHANT_004-2a.10}
+  - {type: punctuation, offset: 78, content: 。, id: KR3f0036_CHANT_004-bkkpn15}
+  - {type: 'tls:seg', offset: 78, content: '', id: KR3f0036_CHANT_004-2a.11}
+  - {type: punctuation, offset: 79, content: ：, id: KR3f0036_CHANT_004-bkkpn16}
+  - {type: 'tls:seg', offset: 79, content: '', id: KR3f0036_CHANT_004-2a.12}
+  - {type: punctuation, offset: 81, content: 、, id: KR3f0036_CHANT_004-bkkpn17}
+  - {type: variant, offset: 84, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 84, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 86, content: ？, id: KR3f0036_CHANT_004-bkkpn18}
+  - {type: xml-element, offset: 86, content: '', id: KR3f0036_CHANT_004-bkkxmlele12}
+  - {type: xml-element, offset: 86, content: '', id: KR3f0036_CHANT_004-bkkxmlele13}
+  - {type: 'tls:seg', offset: 86, content: '', id: KR3f0036_CHANT_004-3a.1}
+  - {type: 'tls:seg', offset: 86, content: '', id: KR3f0036_CHANT_004-3a.2}
+  - {type: variant, offset: 86, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 86, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 86, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 88, content: ：, id: KR3f0036_CHANT_004-bkkpn19}
+  - {type: 'tls:seg', offset: 88, content: '', id: KR3f0036_CHANT_004-3a.3}
+  - {type: punctuation, offset: 94, content: ，, id: KR3f0036_CHANT_004-bkkpn20}
+  - {type: 'tls:seg', offset: 94, content: '', id: KR3f0036_CHANT_004-3a.4}
+  - {type: punctuation, offset: 102, content: 。, id: KR3f0036_CHANT_004-bkkpn21}
+  - {type: xml-element, offset: 102, content: '', id: KR3f0036_CHANT_004-bkkxmlele14}
+  - {type: xml-element, offset: 102, content: '', id: KR3f0036_CHANT_004-bkkxmlele15}
+  - {type: 'tls:seg', offset: 102, content: '', id: KR3f0036_CHANT_004-3a.5}
+  - {type: variant, offset: 102, length: 0, content: '', WYG: 術曰列粟七百斛以雇粟七升乗之得四十九斛為車粟以減本粟七百斛餘為主粟}
+  - {type: variant, offset: 102, length: 0, content: '', krp: 術曰列粟七百斛以雇粟七升乗之得四十九斛為車粟以減本粟七百斛餘為主粟}
+  - {type: punctuation, offset: 108, content: ，, id: KR3f0036_CHANT_004-bkkpn22}
+  - {type: 'tls:seg', offset: 108, content: '', id: KR3f0036_CHANT_004-3a.6}
+  - {type: variant, offset: 109, length: 1, content: 別, WYG: 别}
+  - {type: variant, offset: 109, length: 1, content: 別, krp: 别}
+  - {type: punctuation, offset: 115, content: 。, id: KR3f0036_CHANT_004-bkkpn23}
+  - {type: 'tls:seg', offset: 115, content: '', id: KR3f0036_CHANT_004-3a.7}
+  - {type: punctuation, offset: 116, content: ：, id: KR3f0036_CHANT_004-bkkpn24}
+  - {type: 'tls:seg', offset: 116, content: '', id: KR3f0036_CHANT_004-3a.8}
+  - {type: variant, offset: 117, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 117, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 119, content: ？, id: KR3f0036_CHANT_004-bkkpn25}
+  - {type: xml-element, offset: 119, content: '', id: KR3f0036_CHANT_004-bkkxmlele16}
+  - {type: xml-element, offset: 119, content: '', id: KR3f0036_CHANT_004-bkkxmlele17}
+  - {type: 'tls:seg', offset: 119, content: '', id: KR3f0036_CHANT_004-4a.1}
+  - {type: 'tls:seg', offset: 119, content: '', id: KR3f0036_CHANT_004-4a.2}
+  - {type: variant, offset: 119, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 119, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 119, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 121, content: ：, id: KR3f0036_CHANT_004-bkkpn26}
+  - {type: 'tls:seg', offset: 121, content: '', id: KR3f0036_CHANT_004-4a.3}
+  - {type: page-break, offset: 123, content: '', id: KR3f0036_WYG_004-2a, image: WYG0797/WYG0797-0188c.png}
+  - {type: punctuation, offset: 127, content: 。, id: KR3f0036_CHANT_004-bkkpn27}
+  - {type: xml-element, offset: 127, content: '', id: KR3f0036_CHANT_004-bkkxmlele18}
+  - {type: xml-element, offset: 127, content: '', id: KR3f0036_CHANT_004-bkkxmlele19}
+  - {type: 'tls:seg', offset: 127, content: '', id: KR3f0036_CHANT_004-4a.4}
+  - {type: variant, offset: 127, length: 0, content: '', WYG: 術曰列九百斛以二斗五升乗之即得}
+  - {type: variant, offset: 127, length: 0, content: '', krp: 術曰列九百斛以二斗五升乗之即得}
+  - {type: punctuation, offset: 131, content: ，, id: KR3f0036_CHANT_004-bkkpn28}
+  - {type: 'tls:seg', offset: 131, content: '', id: KR3f0036_CHANT_004-4a.5}
+  - {type: punctuation, offset: 134, content: ，, id: KR3f0036_CHANT_004-bkkpn29}
+  - {type: 'tls:seg', offset: 134, content: '', id: KR3f0036_CHANT_004-4a.6}
+  - {type: variant, offset: 134, length: 1, content: 高, WYG: 髙}
+  - {type: variant, offset: 134, length: 1, content: 高, krp: 髙}
+  - {type: punctuation, offset: 139, content: 。, id: KR3f0036_CHANT_004-bkkpn30}
+  - {type: 'tls:seg', offset: 139, content: '', id: KR3f0036_CHANT_004-4a.7}
+  - {type: punctuation, offset: 140, content: ：, id: KR3f0036_CHANT_004-bkkpn31}
+  - {type: 'tls:seg', offset: 140, content: '', id: KR3f0036_CHANT_004-4a.8}
+  - {type: variant, offset: 142, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 142, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 144, content: ？, id: KR3f0036_CHANT_004-bkkpn32}
+  - {type: xml-element, offset: 144, content: '', id: KR3f0036_CHANT_004-bkkxmlele20}
+  - {type: xml-element, offset: 144, content: '', id: KR3f0036_CHANT_004-bkkxmlele21}
+  - {type: 'tls:seg', offset: 144, content: '', id: KR3f0036_CHANT_004-5a.1}
+  - {type: 'tls:seg', offset: 144, content: '', id: KR3f0036_CHANT_004-5a.2}
+  - {type: variant, offset: 144, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 144, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 144, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 146, content: ：, id: KR3f0036_CHANT_004-bkkpn33}
+  - {type: 'tls:seg', offset: 146, content: '', id: KR3f0036_CHANT_004-5a.3}
+  - {type: variant, offset: 151, length: 1, content: 奇, WYG: 竒}
+  - {type: variant, offset: 151, length: 1, content: 奇, krp: 竒}
+  - {type: punctuation, offset: 156, content: 。, id: KR3f0036_CHANT_004-bkkpn34}
+  - {type: xml-element, offset: 156, content: '', id: KR3f0036_CHANT_004-bkkxmlele22}
+  - {type: xml-element, offset: 156, content: '', id: KR3f0036_CHANT_004-bkkxmlele23}
+  - {type: 'tls:seg', offset: 156, content: '', id: KR3f0036_CHANT_004-5a.4}
+  - {type: variant, offset: 156, length: 0, content: '', WYG: 術曰列周三丈自相乗得九百尺以髙一丈六尺乗之得一萬四千四百尺以十二除之得一千二百尺以斛法一尺六寸二分除之即得}
+  - {type: variant, offset: 156, length: 0, content: '', krp: 術曰列周三丈自相乗得九百尺以髙一丈六尺乗之得一萬四千四百尺以十二除之得一千二百尺以斛法一尺六寸二分除之即得}
+  - {type: punctuation, offset: 160, content: ，, id: KR3f0036_CHANT_004-bkkpn35}
+  - {type: 'tls:seg', offset: 160, content: '', id: KR3f0036_CHANT_004-5a.5}
+  - {type: punctuation, offset: 165, content: ，, id: KR3f0036_CHANT_004-bkkpn36}
+  - {type: 'tls:seg', offset: 165, content: '', id: KR3f0036_CHANT_004-5a.6}
+  - {type: punctuation, offset: 168, content: ，, id: KR3f0036_CHANT_004-bkkpn37}
+  - {type: 'tls:seg', offset: 168, content: '', id: KR3f0036_CHANT_004-5a.7}
+  - {type: punctuation, offset: 171, content: 。, id: KR3f0036_CHANT_004-bkkpn38}
+  - {type: 'tls:seg', offset: 171, content: '', id: KR3f0036_CHANT_004-5a.8}
+  - {type: punctuation, offset: 172, content: ：, id: KR3f0036_CHANT_004-bkkpn39}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR3f0036_CHANT_004-5a.9}
+  - {type: variant, offset: 174, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 174, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 176, content: ？, id: KR3f0036_CHANT_004-bkkpn40}
+  - {type: xml-element, offset: 176, content: '', id: KR3f0036_CHANT_004-bkkxmlele24}
+  - {type: xml-element, offset: 176, content: '', id: KR3f0036_CHANT_004-bkkxmlele25}
+  - {type: 'tls:seg', offset: 176, content: '', id: KR3f0036_CHANT_004-6a.1}
+  - {type: 'tls:seg', offset: 176, content: '', id: KR3f0036_CHANT_004-6a.2}
+  - {type: variant, offset: 176, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 176, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 176, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: page-break, offset: 177, content: '', id: KR3f0036_WYG_004-2b, image: WYG0797/WYG0797-0188d.png}
+  - {type: punctuation, offset: 178, content: ：, id: KR3f0036_CHANT_004-bkkpn41}
+  - {type: 'tls:seg', offset: 178, content: '', id: KR3f0036_CHANT_004-6a.3}
+  - {type: variant, offset: 186, length: 1, content: 奇, WYG: 竒七寸八分術曰列從}
+  - {type: variant, offset: 186, length: 1, content: 奇, krp: 竒七寸八分術曰列從}
+  - {type: variant, offset: 188, length: 1, content: 寸, WYG: 丈}
+  - {type: variant, offset: 188, length: 1, content: 寸, krp: 丈}
+  - {type: variant, offset: 190, length: 1, content: 分, WYG: 尺以廣六尺乗之得七十八尺以深一丈乗之得七百八十尺以斛法除之即得}
+  - {type: variant, offset: 190, length: 1, content: 分, krp: 尺以廣六尺乗之得七十八尺以深一丈乗之得七百八十尺以斛法除之即得}
+  - {type: punctuation, offset: 191, content: 。, id: KR3f0036_CHANT_004-bkkpn42}
+  - {type: xml-element, offset: 191, content: '', id: KR3f0036_CHANT_004-bkkxmlele26}
+  - {type: xml-element, offset: 191, content: '', id: KR3f0036_CHANT_004-bkkxmlele27}
+  - {type: 'tls:seg', offset: 191, content: '', id: KR3f0036_CHANT_004-6a.4}
+  - {type: punctuation, offset: 194, content: ，, id: KR3f0036_CHANT_004-bkkpn43}
+  - {type: 'tls:seg', offset: 194, content: '', id: KR3f0036_CHANT_004-6a.5}
+  - {type: punctuation, offset: 199, content: ，, id: KR3f0036_CHANT_004-bkkpn44}
+  - {type: 'tls:seg', offset: 199, content: '', id: KR3f0036_CHANT_004-6a.6}
+  - {type: punctuation, offset: 202, content: ，, id: KR3f0036_CHANT_004-bkkpn45}
+  - {type: 'tls:seg', offset: 202, content: '', id: KR3f0036_CHANT_004-6a.7}
+  - {type: variant, offset: 202, length: 1, content: 高, WYG: 髙}
+  - {type: variant, offset: 202, length: 1, content: 高, krp: 髙}
+  - {type: punctuation, offset: 205, content: 。, id: KR3f0036_CHANT_004-bkkpn46}
+  - {type: 'tls:seg', offset: 205, content: '', id: KR3f0036_CHANT_004-6a.8}
+  - {type: punctuation, offset: 211, content: ，, id: KR3f0036_CHANT_004-bkkpn47}
+  - {type: 'tls:seg', offset: 211, content: '', id: KR3f0036_CHANT_004-6a.9}
+  - {type: punctuation, offset: 214, content: ，, id: KR3f0036_CHANT_004-bkkpn48}
+  - {type: 'tls:seg', offset: 214, content: '', id: KR3f0036_CHANT_004-6a.10}
+  - {type: punctuation, offset: 219, content: ；, id: KR3f0036_CHANT_004-bkkpn49}
+  - {type: 'tls:seg', offset: 219, content: '', id: KR3f0036_CHANT_004-6a.11}
+  - {type: variant, offset: 220, length: 1, content: 橫, WYG: 横}
+  - {type: variant, offset: 220, length: 1, content: 橫, krp: 横}
+  - {type: punctuation, offset: 224, content: ，, id: KR3f0036_CHANT_004-bkkpn50}
+  - {type: 'tls:seg', offset: 224, content: '', id: KR3f0036_CHANT_004-6a.12}
+  - {type: punctuation, offset: 227, content: ，, id: KR3f0036_CHANT_004-bkkpn51}
+  - {type: 'tls:seg', offset: 227, content: '', id: KR3f0036_CHANT_004-6a.13}
+  - {type: punctuation, offset: 230, content: ；, id: KR3f0036_CHANT_004-bkkpn52}
+  - {type: 'tls:seg', offset: 230, content: '', id: KR3f0036_CHANT_004-6a.14}
+  - {type: punctuation, offset: 234, content: ，, id: KR3f0036_CHANT_004-bkkpn53}
+  - {type: 'tls:seg', offset: 234, content: '', id: KR3f0036_CHANT_004-6a.15}
+  - {type: punctuation, offset: 237, content: ，, id: KR3f0036_CHANT_004-bkkpn54}
+  - {type: 'tls:seg', offset: 237, content: '', id: KR3f0036_CHANT_004-6a.16}
+  - {type: variant, offset: 237, length: 1, content: 高, WYG: 髙}
+  - {type: variant, offset: 237, length: 1, content: 高, krp: 髙}
+  - {type: punctuation, offset: 240, content: 。, id: KR3f0036_CHANT_004-bkkpn55}
+  - {type: 'tls:seg', offset: 240, content: '', id: KR3f0036_CHANT_004-6a.17}
+  - {type: punctuation, offset: 241, content: ：, id: KR3f0036_CHANT_004-bkkpn56}
+  - {type: 'tls:seg', offset: 241, content: '', id: KR3f0036_CHANT_004-6a.18}
+  - {type: variant, offset: 243, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 243, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 245, content: ？, id: KR3f0036_CHANT_004-bkkpn57}
+  - {type: xml-element, offset: 245, content: '', id: KR3f0036_CHANT_004-bkkxmlele28}
+  - {type: xml-element, offset: 245, content: '', id: KR3f0036_CHANT_004-bkkxmlele29}
+  - {type: 'tls:seg', offset: 245, content: '', id: KR3f0036_CHANT_004-7a.1}
+  - {type: 'tls:seg', offset: 245, content: '', id: KR3f0036_CHANT_004-7a.2}
+  - {type: variant, offset: 245, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 245, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 245, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 247, content: ：, id: KR3f0036_CHANT_004-bkkpn58}
+  - {type: 'tls:seg', offset: 247, content: '', id: KR3f0036_CHANT_004-7a.3}
+  - {type: variant, offset: 253, length: 1, content: 奇, WYG: 竒}
+  - {type: variant, offset: 253, length: 1, content: 奇, krp: 竒}
+  - {type: punctuation, offset: 257, content: 。, id: KR3f0036_CHANT_004-bkkpn59}
+  - {type: xml-element, offset: 257, content: '', id: KR3f0036_CHANT_004-bkkxmlele30}
+  - {type: xml-element, offset: 257, content: '', id: KR3f0036_CHANT_004-bkkxmlele31}
+  - {type: 'tls:seg', offset: 257, content: '', id: KR3f0036_CHANT_004-7a.4}
+  - {type: variant, offset: 257, length: 0, content: '', WYG: 術曰列從一丈三尺上十之得一百三十寸以廣六十寸乗之得七千八百寸又列髙一丈上十之為一百寸以乗之得七十八萬寸為都積又列從牽二枚方五寸自相乗得二十五寸以從一百三十寸乗之得三千二百五十寸以從牽二枚乗之得六千五百寸又列横牽三枚方四寸自相乗得十六寸以從六十寸乗之得九百六十寸以横牽三枚乗之得二千八百八十寸又列柱一枚周三尺上十之得三十寸自相乗得九百寸以髙一百寸乗之得九萬寸以十二除之得七千五百寸并從横牽及柱等三位得一萬六千八百八十寸以減都積餘七十六萬三千一百二十寸為實以斛法一千六百二十寸除之即得}
+  - {type: page-break, offset: 257, content: '', id: KR3f0036_WYG_004-3a, image: WYG0797/WYG0797-0189a.png}
+  - {type: page-break, offset: 257, content: '', id: KR3f0036_WYG_004-3b, image: WYG0797/WYG0797-0189b.png}
+  - {type: variant, offset: 257, length: 0, content: '', krp: 術曰列從一丈三尺上十之得一百三十寸以廣六十寸乗之得七千八百寸又列髙一丈上十之為一百寸以乗之得七十八萬寸為都積又列從牽二枚方五寸自相乗得二十五寸以從一百三十寸乗之得三千二百五十寸以從牽二枚乗之得六千五百寸又列横牽三枚方四寸自相乗得十六寸以從六十寸乗之得九百六十寸以横牽三枚乗之得二千八百八十寸又列柱一枚周三尺上十之得三十寸自相乗得九百寸以髙一百寸乗之得九萬寸以十二除之得七千五百寸并從横牽及柱等三位得一萬六千八百八十寸以減都積餘七十六萬三千一百二十寸為實以斛法一千六百二十寸除之即得}
+  - {type: punctuation, offset: 260, content: ，, id: KR3f0036_CHANT_004-bkkpn60}
+  - {type: 'tls:seg', offset: 260, content: '', id: KR3f0036_CHANT_004-7a.5}
+  - {type: punctuation, offset: 265, content: ，, id: KR3f0036_CHANT_004-bkkpn61}
+  - {type: 'tls:seg', offset: 265, content: '', id: KR3f0036_CHANT_004-7a.6}
+  - {type: punctuation, offset: 270, content: ，, id: KR3f0036_CHANT_004-bkkpn62}
+  - {type: 'tls:seg', offset: 270, content: '', id: KR3f0036_CHANT_004-7a.7}
+  - {type: variant, offset: 270, length: 1, content: 高, WYG: 髙}
+  - {type: variant, offset: 270, length: 1, content: 高, krp: 髙}
+  - {type: punctuation, offset: 275, content: 。, id: KR3f0036_CHANT_004-bkkpn63}
+  - {type: 'tls:seg', offset: 275, content: '', id: KR3f0036_CHANT_004-7a.8}
+  - {type: punctuation, offset: 276, content: ：, id: KR3f0036_CHANT_004-bkkpn64}
+  - {type: 'tls:seg', offset: 276, content: '', id: KR3f0036_CHANT_004-7a.9}
+  - {type: variant, offset: 278, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 278, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 280, content: ？, id: KR3f0036_CHANT_004-bkkpn65}
+  - {type: xml-element, offset: 280, content: '', id: KR3f0036_CHANT_004-bkkxmlele32}
+  - {type: xml-element, offset: 280, content: '', id: KR3f0036_CHANT_004-bkkxmlele33}
+  - {type: 'tls:seg', offset: 280, content: '', id: KR3f0036_CHANT_004-8a.1}
+  - {type: 'tls:seg', offset: 280, content: '', id: KR3f0036_CHANT_004-8a.2}
+  - {type: variant, offset: 280, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 280, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 280, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 282, content: ：, id: KR3f0036_CHANT_004-bkkpn66}
+  - {type: 'tls:seg', offset: 282, content: '', id: KR3f0036_CHANT_004-8a.3}
+  - {type: variant, offset: 292, length: 1, content: 奇, WYG: 竒}
+  - {type: variant, offset: 292, length: 1, content: 奇, krp: 竒}
+  - {type: variant, offset: 296, length: 1, content: 釐, WYG: 氂}
+  - {type: variant, offset: 296, length: 1, content: 釐, krp: 氂}
+  - {type: punctuation, offset: 299, content: 。, id: KR3f0036_CHANT_004-bkkpn67}
+  - {type: xml-element, offset: 299, content: '', id: KR3f0036_CHANT_004-bkkxmlele34}
+  - {type: xml-element, offset: 299, content: '', id: KR3f0036_CHANT_004-bkkxmlele35}
+  - {type: 'tls:seg', offset: 299, content: '', id: KR3f0036_CHANT_004-8a.4}
+  - {type: variant, offset: 299, length: 0, content: '', WYG: 術曰列從一丈九尺以廣一十五尺乗之得二百八十五尺又以髙一十三尺乗之得三千七百五尺以斛法一尺六寸二分除之即得}
+  - {type: page-break, offset: 299, content: '', id: KR3f0036_WYG_004-4a, image: WYG0797/WYG0797-0189c.png}
+  - {type: variant, offset: 299, length: 0, content: '', krp: 術曰列從一丈九尺以廣一十五尺乗之得二百八十五尺又以髙一十三尺乗之得三千七百五尺以斛法一尺六寸二分除之即得}
+  - {type: punctuation, offset: 305, content: ，, id: KR3f0036_CHANT_004-bkkpn68}
+  - {type: 'tls:seg', offset: 305, content: '', id: KR3f0036_CHANT_004-8a.5}
+  - {type: punctuation, offset: 309, content: ，, id: KR3f0036_CHANT_004-bkkpn69}
+  - {type: 'tls:seg', offset: 309, content: '', id: KR3f0036_CHANT_004-8a.6}
+  - {type: variant, offset: 309, length: 1, content: 高, WYG: 髙}
+  - {type: variant, offset: 309, length: 1, content: 高, krp: 髙}
+  - {type: punctuation, offset: 312, content: 。, id: KR3f0036_CHANT_004-bkkpn70}
+  - {type: 'tls:seg', offset: 312, content: '', id: KR3f0036_CHANT_004-8a.7}
+  - {type: punctuation, offset: 313, content: ：, id: KR3f0036_CHANT_004-bkkpn71}
+  - {type: 'tls:seg', offset: 313, content: '', id: KR3f0036_CHANT_004-8a.8}
+  - {type: variant, offset: 314, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 314, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 316, content: ？, id: KR3f0036_CHANT_004-bkkpn72}
+  - {type: xml-element, offset: 316, content: '', id: KR3f0036_CHANT_004-bkkxmlele36}
+  - {type: xml-element, offset: 316, content: '', id: KR3f0036_CHANT_004-bkkxmlele37}
+  - {type: 'tls:seg', offset: 316, content: '', id: KR3f0036_CHANT_004-9a.1}
+  - {type: 'tls:seg', offset: 316, content: '', id: KR3f0036_CHANT_004-9a.2}
+  - {type: variant, offset: 316, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 316, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 316, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 318, content: ：, id: KR3f0036_CHANT_004-bkkpn73}
+  - {type: 'tls:seg', offset: 318, content: '', id: KR3f0036_CHANT_004-9a.3}
+  - {type: variant, offset: 326, length: 1, content: 奇, WYG: 竒}
+  - {type: variant, offset: 326, length: 1, content: 奇, krp: 竒}
+  - {type: variant, offset: 330, length: 1, content: 釐, WYG: 氂}
+  - {type: variant, offset: 330, length: 1, content: 釐, krp: 氂}
+  - {type: punctuation, offset: 333, content: 。, id: KR3f0036_CHANT_004-bkkpn74}
+  - {type: xml-element, offset: 333, content: '', id: KR3f0036_CHANT_004-bkkxmlele38}
+  - {type: xml-element, offset: 333, content: '', id: KR3f0036_CHANT_004-bkkxmlele39}
+  - {type: 'tls:seg', offset: 333, content: '', id: KR3f0036_CHANT_004-9a.4}
+  - {type: variant, offset: 333, length: 0, content: '', WYG: 術曰列下周三十尺自相乗得九百尺以髙四尺乗之得三千六百尺以三十六除之得一百尺以斛法一尺六寸二分除之即得}
+  - {type: variant, offset: 333, length: 0, content: '', krp: 術曰列下周三十尺自相乗得九百尺以髙四尺乗之得三千六百尺以三十六除之得一百尺以斛法一尺六寸二分除之即得}
+  - {type: variant, offset: 335, length: 1, content: 內, WYG: 内}
+  - {type: variant, offset: 335, length: 1, content: 內, krp: 内}
+  - {type: punctuation, offset: 339, content: ，, id: KR3f0036_CHANT_004-bkkpn75}
+  - {type: 'tls:seg', offset: 339, content: '', id: KR3f0036_CHANT_004-9a.5}
+  - {type: punctuation, offset: 345, content: ，, id: KR3f0036_CHANT_004-bkkpn76}
+  - {type: 'tls:seg', offset: 345, content: '', id: KR3f0036_CHANT_004-9a.6}
+  - {type: variant, offset: 345, length: 1, content: 高, WYG: 髙}
+  - {type: variant, offset: 345, length: 1, content: 高, krp: 髙}
+  - {type: punctuation, offset: 348, content: 。, id: KR3f0036_CHANT_004-bkkpn77}
+  - {type: 'tls:seg', offset: 348, content: '', id: KR3f0036_CHANT_004-9a.7}
+  - {type: punctuation, offset: 349, content: ：, id: KR3f0036_CHANT_004-bkkpn78}
+  - {type: 'tls:seg', offset: 349, content: '', id: KR3f0036_CHANT_004-9a.8}
+  - {type: variant, offset: 350, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 350, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 352, content: ？, id: KR3f0036_CHANT_004-bkkpn79}
+  - {type: xml-element, offset: 352, content: '', id: KR3f0036_CHANT_004-bkkxmlele40}
+  - {type: xml-element, offset: 352, content: '', id: KR3f0036_CHANT_004-bkkxmlele41}
+  - {type: 'tls:seg', offset: 352, content: '', id: KR3f0036_CHANT_004-10a.1}
+  - {type: 'tls:seg', offset: 352, content: '', id: KR3f0036_CHANT_004-10a.2}
+  - {type: variant, offset: 352, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 352, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 352, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 354, content: ：, id: KR3f0036_CHANT_004-bkkpn80}
+  - {type: 'tls:seg', offset: 354, content: '', id: KR3f0036_CHANT_004-10a.3}
+  - {type: punctuation, offset: 357, content: 。, id: KR3f0036_CHANT_004-bkkpn81}
+  - {type: xml-element, offset: 357, content: '', id: KR3f0036_CHANT_004-bkkxmlele42}
+  - {type: xml-element, offset: 357, content: '', id: KR3f0036_CHANT_004-bkkxmlele43}
+  - {type: 'tls:seg', offset: 357, content: '', id: KR3f0036_CHANT_004-10a.4}
+  - {type: variant, offset: 357, length: 0, content: '', WYG: 術曰列下周五十四尺自相乗得二千九百一十六尺以髙五尺乗之得一萬四千五百八十尺以九除之得一千六百二十尺以斛法一尺六寸二分除之即得}
+  - {type: page-break, offset: 357, content: '', id: KR3f0036_WYG_004-4b, image: WYG0797/WYG0797-0189d.png}
+  - {type: variant, offset: 357, length: 0, content: '', krp: 術曰列下周五十四尺自相乗得二千九百一十六尺以髙五尺乗之得一萬四千五百八十尺以九除之得一千六百二十尺以斛法一尺六寸二分除之即得}
+  - {type: punctuation, offset: 363, content: ，, id: KR3f0036_CHANT_004-bkkpn82}
+  - {type: 'tls:seg', offset: 363, content: '', id: KR3f0036_CHANT_004-10a.5}
+  - {type: punctuation, offset: 369, content: ，, id: KR3f0036_CHANT_004-bkkpn83}
+  - {type: 'tls:seg', offset: 369, content: '', id: KR3f0036_CHANT_004-10a.6}
+  - {type: variant, offset: 369, length: 1, content: 高, WYG: 髙}
+  - {type: variant, offset: 369, length: 1, content: 高, krp: 髙}
+  - {type: punctuation, offset: 374, content: 。, id: KR3f0036_CHANT_004-bkkpn84}
+  - {type: 'tls:seg', offset: 374, content: '', id: KR3f0036_CHANT_004-10a.7}
+  - {type: punctuation, offset: 375, content: ：, id: KR3f0036_CHANT_004-bkkpn85}
+  - {type: 'tls:seg', offset: 375, content: '', id: KR3f0036_CHANT_004-10a.8}
+  - {type: variant, offset: 376, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 376, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 378, content: ？, id: KR3f0036_CHANT_004-bkkpn86}
+  - {type: xml-element, offset: 378, content: '', id: KR3f0036_CHANT_004-bkkxmlele44}
+  - {type: xml-element, offset: 378, content: '', id: KR3f0036_CHANT_004-bkkxmlele45}
+  - {type: 'tls:seg', offset: 378, content: '', id: KR3f0036_CHANT_004-11a.1}
+  - {type: 'tls:seg', offset: 378, content: '', id: KR3f0036_CHANT_004-11a.2}
+  - {type: variant, offset: 378, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 378, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 378, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 380, content: ：, id: KR3f0036_CHANT_004-bkkpn87}
+  - {type: 'tls:seg', offset: 380, content: '', id: KR3f0036_CHANT_004-11a.3}
+  - {type: punctuation, offset: 383, content: 。, id: KR3f0036_CHANT_004-bkkpn88}
+  - {type: xml-element, offset: 383, content: '', id: KR3f0036_CHANT_004-bkkxmlele46}
+  - {type: xml-element, offset: 383, content: '', id: KR3f0036_CHANT_004-bkkxmlele47}
+  - {type: 'tls:seg', offset: 383, content: '', id: KR3f0036_CHANT_004-11a.4}
+  - {type: variant, offset: 383, length: 0, content: '', WYG: 術曰列下周三十六尺自相乗得一千二百九十六尺以髙四尺五寸乗之得五千八百三十二尺以十八除之得三百二十四尺以斛法一尺六寸二分除之即得}
+  - {type: variant, offset: 383, length: 0, content: '', krp: 術曰列下周三十六尺自相乗得一千二百九十六尺以髙四尺五寸乗之得五千八百三十二尺以十八除之得三百二十四尺以斛法一尺六寸二分除之即得}
+  - {type: punctuation, offset: 389, content: ，, id: KR3f0036_CHANT_004-bkkpn89}
+  - {type: 'tls:seg', offset: 389, content: '', id: KR3f0036_CHANT_004-11a.5}
+  - {type: punctuation, offset: 395, content: ，, id: KR3f0036_CHANT_004-bkkpn90}
+  - {type: 'tls:seg', offset: 395, content: '', id: KR3f0036_CHANT_004-11a.6}
+  - {type: variant, offset: 395, length: 1, content: 高, WYG: 髙}
+  - {type: variant, offset: 395, length: 1, content: 高, krp: 髙}
+  - {type: punctuation, offset: 398, content: 。, id: KR3f0036_CHANT_004-bkkpn91}
+  - {type: 'tls:seg', offset: 398, content: '', id: KR3f0036_CHANT_004-11a.7}
+  - {type: punctuation, offset: 399, content: ：, id: KR3f0036_CHANT_004-bkkpn92}
+  - {type: 'tls:seg', offset: 399, content: '', id: KR3f0036_CHANT_004-11a.8}
+  - {type: variant, offset: 400, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 400, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 402, content: ？, id: KR3f0036_CHANT_004-bkkpn93}
+  - {type: xml-element, offset: 402, content: '', id: KR3f0036_CHANT_004-bkkxmlele48}
+  - {type: xml-element, offset: 402, content: '', id: KR3f0036_CHANT_004-bkkxmlele49}
+  - {type: 'tls:seg', offset: 402, content: '', id: KR3f0036_CHANT_004-12a.1}
+  - {type: 'tls:seg', offset: 402, content: '', id: KR3f0036_CHANT_004-12a.2}
+  - {type: variant, offset: 402, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 402, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 402, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 404, content: ：, id: KR3f0036_CHANT_004-bkkpn94}
+  - {type: 'tls:seg', offset: 404, content: '', id: KR3f0036_CHANT_004-12a.3}
+  - {type: page-break, offset: 404, content: '', id: KR3f0036_WYG_004-5a, image: WYG0797/WYG0797-0190a.png}
+  - {type: variant, offset: 410, length: 1, content: 奇, WYG: 竒}
+  - {type: variant, offset: 410, length: 1, content: 奇, krp: 竒}
+  - {type: punctuation, offset: 413, content: 。, id: KR3f0036_CHANT_004-bkkpn95}
+  - {type: xml-element, offset: 413, content: '', id: KR3f0036_CHANT_004-bkkxmlele50}
+  - {type: variant, offset: 413, length: 0, content: '', WYG: 術曰列下周四十八尺自相乗得二千三百四尺以髙六尺乗之得一萬三千八百二十四尺以二十七除之得五百一十二尺以斛法一尺六寸二分除之即得五曹算經卷四}
+  - {type: page-break, offset: 413, content: '', id: KR3f0036_WYG_004-5b, image: WYG0797/WYG0797-0190b.png}
+  - {type: variant, offset: 413, length: 0, content: '', krp: 術曰列下周四十八尺自相乗得二千三百四尺以髙六尺乗之得一萬三千八百二十四尺以二十七除之得五百一十二尺以斛法一尺六寸二分除之即得五曹算經卷四}
+  back: []
+hash: sha256:e7f0d16caf4d43cfd90ee865e34426223c30a9ed22e4856d10bd404398c2374e

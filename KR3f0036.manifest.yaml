@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR3f0036/v1
+canonical_location: https://kanripo.org/bkk/KR3f0036/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 五曹算經
+  identifiers:
+    krp: KR3f0036
+  tags:
+    kr-categories: KR3f
+  source:
+    repository: tls-texts
+    path: data/tls/KR3f0036.xml
+  edition:
+    short: bkk
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+assets:
+  parts:
+  - {seq: 1, filename: KR3f0036_001.yaml, hash: 'sha256:b631bfc580dddac8ecf16b7c390ba9bbeff5bcd1730cb5419efc22a4e19734bf'}
+  - {seq: 2, filename: KR3f0036_002.yaml, hash: 'sha256:2d8718ce2852ea64d73479efddc18ccf8f352feb416be4f632a2a5a9f567a7d6'}
+  - {seq: 3, filename: KR3f0036_003.yaml, hash: 'sha256:6e89239e61484cd88b0dc4e0074b65882a89ddde6babb901dceb3a78e5657cb3'}
+  - {seq: 4, filename: KR3f0036_004.yaml, hash: 'sha256:0696610fadfaa012dcc6113ca1f5c1e98ada7c50b5c930f2cd8204477ce8797a'}
+  - {seq: 5, filename: KR3f0036_005.yaml, hash: 'sha256:60ba989499e134ae47edc23959bc437ebb27bbe063b744ae03eb76ef9173d0e2'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3f0036_001.markers.yaml, hash: 'sha256:a21265c7f9b2dad7e65b2a15aa6ea8ddb253187e07bdb92536d249af82cf0c18'}
+  - {seq: 2, role: markers, filename: assets/KR3f0036_002.markers.yaml, hash: 'sha256:2c52b1c37858c72573f0ebb5aa08d8293174404fd42ecf0eac182ed1619385e9'}
+  - {seq: 3, role: markers, filename: assets/KR3f0036_003.markers.yaml, hash: 'sha256:22e9d6ae3b19e78fccb6c01087aeae2b88407e5fa8f6d3552e6dc26664ec62f9'}
+  - {seq: 4, role: markers, filename: assets/KR3f0036_004.markers.yaml, hash: 'sha256:e7f0d16caf4d43cfd90ee865e34426223c30a9ed22e4856d10bd404398c2374e'}
+  - {seq: 5, role: markers, filename: assets/KR3f0036_005.markers.yaml, hash: 'sha256:09d9f5a4fbf85ef91855c21c44778eb63a1e5846ba3294f632e711c3a4116f6a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3f0036_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 618
+  label: 卷第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0036_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 453
+  label: 卷第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0036_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 446
+  label: 卷第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0036_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 413
+  label: 卷第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0036_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 368
+  label: 卷第五
+  type: section
+  level: 1
+hash: sha256:6047fa6aec566d29bf4dc64b071fceb951b33580d7083027918a898c1da19fea
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,313 @@
+canonical_identifier: bkk:krp/KR3f0036/bkk/v1/markers/5
+seq: 5
+markers:
+  front:
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書五曹算經}
+  - {type: page-break, offset: 0, content: '', id: KR3f0036_WYG_005-1a, image: WYG0797/WYG0797-0190c.png}
+  - {type: variant, offset: 0, length: 0, content: '', krp: 欽定四庫全書五曹算經}
+  body:
+  - {type: variant, offset: 1, length: 1, content: 第, WYG: ''}
+  - {type: variant, offset: 1, length: 1, content: 第, krp: ''}
+  - {type: xml-element, offset: 3, content: '', id: KR3f0036_CHANT_005-bkkxmlele1}
+  - {type: 'tls:seg', offset: 3, content: '', id: KR3f0036_CHANT_005-1a.1}
+  - {type: 'tls:seg', offset: 3, content: '', id: KR3f0036_CHANT_005-1a.2}
+  - {type: xml-element, offset: 5, content: '', id: KR3f0036_CHANT_005-bkkxmlele2}
+  - {type: xml-element, offset: 5, content: '', id: KR3f0036_CHANT_005-bkkxmlele3}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR3f0036_CHANT_005-1a.3}
+  - {type: variant, offset: 5, length: 0, content: '', WYG: 倉廩貨幣交質變易故金曹次之}
+  - {type: variant, offset: 5, length: 0, content: '', krp: 倉廩貨幣交質變易故金曹次之}
+  - {type: variant, offset: 12, length: 1, content: 戶, WYG: 户}
+  - {type: variant, offset: 12, length: 1, content: 戶, krp: 户}
+  - {type: punctuation, offset: 13, content: ，, id: KR3f0036_CHANT_005-bkkpn1}
+  - {type: 'tls:seg', offset: 13, content: '', id: KR3f0036_CHANT_005-1a.4}
+  - {type: variant, offset: 13, length: 1, content: 戶, WYG: 户}
+  - {type: variant, offset: 13, length: 1, content: 戶, krp: 户}
+  - {type: punctuation, offset: 23, content: 。, id: KR3f0036_CHANT_005-bkkpn2}
+  - {type: 'tls:seg', offset: 23, content: '', id: KR3f0036_CHANT_005-1a.5}
+  - {type: punctuation, offset: 24, content: ：, id: KR3f0036_CHANT_005-bkkpn3}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR3f0036_CHANT_005-1a.6}
+  - {type: variant, offset: 25, length: 1, content: 幾, WYG: 絲㡬}
+  - {type: variant, offset: 25, length: 1, content: 幾, krp: 絲㡬}
+  - {type: punctuation, offset: 27, content: ？, id: KR3f0036_CHANT_005-bkkpn4}
+  - {type: xml-element, offset: 27, content: '', id: KR3f0036_CHANT_005-bkkxmlele4}
+  - {type: xml-element, offset: 27, content: '', id: KR3f0036_CHANT_005-bkkxmlele5}
+  - {type: 'tls:seg', offset: 27, content: '', id: KR3f0036_CHANT_005-1a.7}
+  - {type: variant, offset: 27, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 27, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 27, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 29, content: ：, id: KR3f0036_CHANT_005-bkkpn5}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR3f0036_CHANT_005-1a.8}
+  - {type: punctuation, offset: 37, content: 。, id: KR3f0036_CHANT_005-bkkpn6}
+  - {type: xml-element, offset: 37, content: '', id: KR3f0036_CHANT_005-bkkxmlele6}
+  - {type: xml-element, offset: 37, content: '', id: KR3f0036_CHANT_005-bkkxmlele7}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR3f0036_CHANT_005-2a.1}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR3f0036_CHANT_005-2a.2}
+  - {type: variant, offset: 37, length: 0, content: '', WYG: 術曰列一斤通作十六兩納十一兩得二十七兩以二十四銖乗之納八銖得六百五十六銖以乗户五百六十五得三十七萬六百四十銖以二十四銖除之得一萬五千四百四十三兩竒八銖又以十六兩除之得九百六十五斤竒三兩以三十斤除之得三十二鈞竒五斤又以四鈞除之即得}
+  - {type: page-break, offset: 37, content: '', id: KR3f0036_WYG_005-1b, image: WYG0797/WYG0797-0190d.png}
+  - {type: variant, offset: 37, length: 0, content: '', krp: 術曰列一斤通作十六兩納十一兩得二十七兩以二十四銖乗之納八銖得六百五十六銖以乗户五百六十五得三十七萬六百四十銖以二十四銖除之得一萬五千四百四十三兩竒八銖又以十六兩除之得九百六十五斤竒三兩以三十斤除之得三十二鈞竒五斤又以四鈞除之即得}
+  - {type: variant, offset: 44, length: 1, content: 戶, WYG: 户}
+  - {type: variant, offset: 44, length: 1, content: 戶, krp: 户}
+  - {type: punctuation, offset: 45, content: ，, id: KR3f0036_CHANT_005-bkkpn7}
+  - {type: 'tls:seg', offset: 45, content: '', id: KR3f0036_CHANT_005-2a.3}
+  - {type: variant, offset: 49, length: 1, content: 百, WYG: 石}
+  - {type: variant, offset: 49, length: 1, content: 百, krp: 石}
+  - {type: punctuation, offset: 56, content: 。, id: KR3f0036_CHANT_005-bkkpn8}
+  - {type: 'tls:seg', offset: 56, content: '', id: KR3f0036_CHANT_005-2a.4}
+  - {type: punctuation, offset: 57, content: ：, id: KR3f0036_CHANT_005-bkkpn9}
+  - {type: 'tls:seg', offset: 57, content: '', id: KR3f0036_CHANT_005-2a.5}
+  - {type: variant, offset: 57, length: 1, content: 戶, WYG: 户}
+  - {type: variant, offset: 57, length: 1, content: 戶, krp: 户}
+  - {type: variant, offset: 60, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 60, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 62, content: ？, id: KR3f0036_CHANT_005-bkkpn10}
+  - {type: xml-element, offset: 62, content: '', id: KR3f0036_CHANT_005-bkkxmlele8}
+  - {type: xml-element, offset: 62, content: '', id: KR3f0036_CHANT_005-bkkxmlele9}
+  - {type: 'tls:seg', offset: 62, content: '', id: KR3f0036_CHANT_005-2a.6}
+  - {type: variant, offset: 62, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 62, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 62, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 64, content: ：, id: KR3f0036_CHANT_005-bkkpn11}
+  - {type: 'tls:seg', offset: 64, content: '', id: KR3f0036_CHANT_005-2a.7}
+  - {type: punctuation, offset: 71, content: 。, id: KR3f0036_CHANT_005-bkkpn12}
+  - {type: xml-element, offset: 71, content: '', id: KR3f0036_CHANT_005-bkkxmlele10}
+  - {type: xml-element, offset: 71, content: '', id: KR3f0036_CHANT_005-bkkxmlele11}
+  - {type: 'tls:seg', offset: 71, content: '', id: KR3f0036_CHANT_005-2a.8}
+  - {type: variant, offset: 71, length: 0, content: '', WYG: 術曰列絲八石五斤三兩八銖以四乗八石得三十二鈞以三十斤乗之納五斤得九百六十五斤以十六兩乗之納三兩得一萬五千四百四十三兩以二十四銖乗之納八銖得三十七萬六百四十銖以五百六十五户除之得一户六百五十六銖以二十四銖除之得二十七兩竒八銖以十六除之即得}
+  - {type: page-break, offset: 71, content: '', id: KR3f0036_WYG_005-2a, image: WYG0797/WYG0797-0191a.png}
+  - {type: variant, offset: 71, length: 0, content: '', krp: 術曰列絲八石五斤三兩八銖以四乗八石得三十二鈞以三十斤乗之納五斤得九百六十五斤以十六兩乗之納三兩得一萬五千四百四十三兩以二十四銖乗之納八銖得三十七萬六百四十銖以五百六十五户除之得一户六百五十六銖以二十四銖除之得二十七兩竒八銖以十六除之即得}
+  - {type: variant, offset: 78, length: 1, content: 戶, WYG: 户}
+  - {type: variant, offset: 78, length: 1, content: 戶, krp: 户}
+  - {type: punctuation, offset: 79, content: ，, id: KR3f0036_CHANT_005-bkkpn13}
+  - {type: 'tls:seg', offset: 79, content: '', id: KR3f0036_CHANT_005-2a.9}
+  - {type: punctuation, offset: 88, content: 。, id: KR3f0036_CHANT_005-bkkpn14}
+  - {type: 'tls:seg', offset: 88, content: '', id: KR3f0036_CHANT_005-2a.10}
+  - {type: punctuation, offset: 89, content: ：, id: KR3f0036_CHANT_005-bkkpn15}
+  - {type: 'tls:seg', offset: 89, content: '', id: KR3f0036_CHANT_005-2a.11}
+  - {type: variant, offset: 89, length: 1, content: 戶, WYG: 户}
+  - {type: variant, offset: 89, length: 1, content: 戶, krp: 户}
+  - {type: variant, offset: 91, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 91, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 93, content: ？, id: KR3f0036_CHANT_005-bkkpn16}
+  - {type: xml-element, offset: 93, content: '', id: KR3f0036_CHANT_005-bkkxmlele12}
+  - {type: xml-element, offset: 93, content: '', id: KR3f0036_CHANT_005-bkkxmlele13}
+  - {type: 'tls:seg', offset: 93, content: '', id: KR3f0036_CHANT_005-3a.1}
+  - {type: 'tls:seg', offset: 93, content: '', id: KR3f0036_CHANT_005-3a.2}
+  - {type: variant, offset: 93, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 93, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 93, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 95, content: ：, id: KR3f0036_CHANT_005-bkkpn17}
+  - {type: 'tls:seg', offset: 95, content: '', id: KR3f0036_CHANT_005-3a.3}
+  - {type: variant, offset: 103, length: 1, content: 奇, WYG: 竒}
+  - {type: variant, offset: 103, length: 1, content: 奇, krp: 竒}
+  - {type: punctuation, offset: 108, content: 。, id: KR3f0036_CHANT_005-bkkpn18}
+  - {type: xml-element, offset: 108, content: '', id: KR3f0036_CHANT_005-bkkxmlele14}
+  - {type: xml-element, offset: 108, content: '', id: KR3f0036_CHANT_005-bkkxmlele15}
+  - {type: 'tls:seg', offset: 108, content: '', id: KR3f0036_CHANT_005-3a.4}
+  - {type: variant, offset: 108, length: 0, content: '', WYG: 術曰列絲二十七斤以十六兩乗之納五兩得四百三十七兩又以二十四銖乗之得一萬四百八十八銖以七百三十八户除之即得}
+  - {type: page-break, offset: 108, content: '', id: KR3f0036_WYG_005-2b, image: WYG0797/WYG0797-0191b.png}
+  - {type: variant, offset: 108, length: 0, content: '', krp: 術曰列絲二十七斤以十六兩乗之納五兩得四百三十七兩又以二十四銖乗之得一萬四百八十八銖以七百三十八户除之即得}
+  - {type: punctuation, offset: 113, content: ，, id: KR3f0036_CHANT_005-bkkpn19}
+  - {type: 'tls:seg', offset: 113, content: '', id: KR3f0036_CHANT_005-3a.5}
+  - {type: punctuation, offset: 117, content: 。, id: KR3f0036_CHANT_005-bkkpn20}
+  - {type: 'tls:seg', offset: 117, content: '', id: KR3f0036_CHANT_005-3a.6}
+  - {type: punctuation, offset: 128, content: 。, id: KR3f0036_CHANT_005-bkkpn21}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR3f0036_CHANT_005-3a.7}
+  - {type: punctuation, offset: 129, content: ：, id: KR3f0036_CHANT_005-bkkpn22}
+  - {type: 'tls:seg', offset: 129, content: '', id: KR3f0036_CHANT_005-3a.8}
+  - {type: variant, offset: 131, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 131, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 133, content: ？, id: KR3f0036_CHANT_005-bkkpn23}
+  - {type: xml-element, offset: 133, content: '', id: KR3f0036_CHANT_005-bkkxmlele16}
+  - {type: xml-element, offset: 133, content: '', id: KR3f0036_CHANT_005-bkkxmlele17}
+  - {type: 'tls:seg', offset: 133, content: '', id: KR3f0036_CHANT_005-4a.1}
+  - {type: 'tls:seg', offset: 133, content: '', id: KR3f0036_CHANT_005-4a.2}
+  - {type: variant, offset: 133, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 133, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 133, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 135, content: ：, id: KR3f0036_CHANT_005-bkkpn24}
+  - {type: 'tls:seg', offset: 135, content: '', id: KR3f0036_CHANT_005-4a.3}
+  - {type: punctuation, offset: 142, content: 。, id: KR3f0036_CHANT_005-bkkpn25}
+  - {type: xml-element, offset: 142, content: '', id: KR3f0036_CHANT_005-bkkxmlele18}
+  - {type: xml-element, offset: 142, content: '', id: KR3f0036_CHANT_005-bkkxmlele19}
+  - {type: 'tls:seg', offset: 142, content: '', id: KR3f0036_CHANT_005-4a.4}
+  - {type: variant, offset: 142, length: 0, content: '', WYG: 術曰列絲一百八十八斤以一十六兩乗之納十兩得三千一十八兩以五文乗之即得}
+  - {type: variant, offset: 142, length: 0, content: '', krp: 術曰列絲一百八十八斤以一十六兩乗之納十兩得三千一十八兩以五文乗之即得}
+  - {type: punctuation, offset: 147, content: ，, id: KR3f0036_CHANT_005-bkkpn26}
+  - {type: 'tls:seg', offset: 147, content: '', id: KR3f0036_CHANT_005-4a.5}
+  - {type: variant, offset: 150, length: 1, content: 匹, WYG: 疋}
+  - {type: variant, offset: 150, length: 1, content: 匹, krp: 疋}
+  - {type: punctuation, offset: 151, content: 。, id: KR3f0036_CHANT_005-bkkpn27}
+  - {type: 'tls:seg', offset: 151, content: '', id: KR3f0036_CHANT_005-4a.6}
+  - {type: punctuation, offset: 159, content: 。, id: KR3f0036_CHANT_005-bkkpn28}
+  - {type: 'tls:seg', offset: 159, content: '', id: KR3f0036_CHANT_005-4a.7}
+  - {type: punctuation, offset: 160, content: ：, id: KR3f0036_CHANT_005-bkkpn29}
+  - {type: 'tls:seg', offset: 160, content: '', id: KR3f0036_CHANT_005-4a.8}
+  - {type: variant, offset: 162, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 162, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 164, content: ？, id: KR3f0036_CHANT_005-bkkpn30}
+  - {type: xml-element, offset: 164, content: '', id: KR3f0036_CHANT_005-bkkxmlele20}
+  - {type: xml-element, offset: 164, content: '', id: KR3f0036_CHANT_005-bkkxmlele21}
+  - {type: 'tls:seg', offset: 164, content: '', id: KR3f0036_CHANT_005-5a.1}
+  - {type: 'tls:seg', offset: 164, content: '', id: KR3f0036_CHANT_005-5a.2}
+  - {type: variant, offset: 164, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 164, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 164, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 166, content: ：, id: KR3f0036_CHANT_005-bkkpn31}
+  - {type: 'tls:seg', offset: 166, content: '', id: KR3f0036_CHANT_005-5a.3}
+  - {type: variant, offset: 171, length: 1, content: 匹, WYG: 疋術曰列三百二十四斤以十六兩乗之得五千一百八十四兩以九兩除之即得}
+  - {type: page-break, offset: 171, content: '', id: KR3f0036_WYG_005-3a, image: WYG0797/WYG0797-0191c.png}
+  - {type: variant, offset: 171, length: 1, content: 匹, krp: 疋術曰列三百二十四斤以十六兩乗之得五千一百八十四兩以九兩除之即得}
+  - {type: punctuation, offset: 172, content: 。, id: KR3f0036_CHANT_005-bkkpn32}
+  - {type: xml-element, offset: 172, content: '', id: KR3f0036_CHANT_005-bkkxmlele22}
+  - {type: xml-element, offset: 172, content: '', id: KR3f0036_CHANT_005-bkkxmlele23}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR3f0036_CHANT_005-5a.4}
+  - {type: punctuation, offset: 178, content: ，, id: KR3f0036_CHANT_005-bkkpn33}
+  - {type: 'tls:seg', offset: 178, content: '', id: KR3f0036_CHANT_005-5a.5}
+  - {type: punctuation, offset: 185, content: 。, id: KR3f0036_CHANT_005-bkkpn34}
+  - {type: 'tls:seg', offset: 185, content: '', id: KR3f0036_CHANT_005-5a.6}
+  - {type: punctuation, offset: 196, content: 。, id: KR3f0036_CHANT_005-bkkpn35}
+  - {type: 'tls:seg', offset: 196, content: '', id: KR3f0036_CHANT_005-5a.7}
+  - {type: punctuation, offset: 197, content: ：, id: KR3f0036_CHANT_005-bkkpn36}
+  - {type: 'tls:seg', offset: 197, content: '', id: KR3f0036_CHANT_005-5a.8}
+  - {type: variant, offset: 199, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 199, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 201, content: ？, id: KR3f0036_CHANT_005-bkkpn37}
+  - {type: xml-element, offset: 201, content: '', id: KR3f0036_CHANT_005-bkkxmlele24}
+  - {type: xml-element, offset: 201, content: '', id: KR3f0036_CHANT_005-bkkxmlele25}
+  - {type: 'tls:seg', offset: 201, content: '', id: KR3f0036_CHANT_005-6a.1}
+  - {type: 'tls:seg', offset: 201, content: '', id: KR3f0036_CHANT_005-6a.2}
+  - {type: variant, offset: 201, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 201, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 201, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 203, content: ：, id: KR3f0036_CHANT_005-bkkpn38}
+  - {type: 'tls:seg', offset: 203, content: '', id: KR3f0036_CHANT_005-6a.3}
+  - {type: punctuation, offset: 211, content: 。, id: KR3f0036_CHANT_005-bkkpn39}
+  - {type: xml-element, offset: 211, content: '', id: KR3f0036_CHANT_005-bkkxmlele26}
+  - {type: xml-element, offset: 211, content: '', id: KR3f0036_CHANT_005-bkkxmlele27}
+  - {type: 'tls:seg', offset: 211, content: '', id: KR3f0036_CHANT_005-6a.4}
+  - {type: variant, offset: 211, length: 0, content: '', WYG: 術曰列練絲一千五百八十七兩以十六兩乗之得二萬五千三百九十二兩以十二兩除之即得}
+  - {type: variant, offset: 211, length: 0, content: '', krp: 術曰列練絲一千五百八十七兩以十六兩乗之得二萬五千三百九十二兩以十二兩除之即得}
+  - {type: punctuation, offset: 217, content: ，, id: KR3f0036_CHANT_005-bkkpn40}
+  - {type: 'tls:seg', offset: 217, content: '', id: KR3f0036_CHANT_005-6a.5}
+  - {type: punctuation, offset: 223, content: 。, id: KR3f0036_CHANT_005-bkkpn41}
+  - {type: 'tls:seg', offset: 223, content: '', id: KR3f0036_CHANT_005-6a.6}
+  - {type: punctuation, offset: 227, content: ，, id: KR3f0036_CHANT_005-bkkpn42}
+  - {type: 'tls:seg', offset: 227, content: '', id: KR3f0036_CHANT_005-6a.7}
+  - {type: punctuation, offset: 233, content: 。, id: KR3f0036_CHANT_005-bkkpn43}
+  - {type: 'tls:seg', offset: 233, content: '', id: KR3f0036_CHANT_005-6a.8}
+  - {type: punctuation, offset: 246, content: 。, id: KR3f0036_CHANT_005-bkkpn44}
+  - {type: 'tls:seg', offset: 246, content: '', id: KR3f0036_CHANT_005-6a.9}
+  - {type: punctuation, offset: 247, content: ：, id: KR3f0036_CHANT_005-bkkpn45}
+  - {type: 'tls:seg', offset: 247, content: '', id: KR3f0036_CHANT_005-6a.10}
+  - {type: variant, offset: 249, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 249, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 251, content: ？, id: KR3f0036_CHANT_005-bkkpn46}
+  - {type: xml-element, offset: 251, content: '', id: KR3f0036_CHANT_005-bkkxmlele28}
+  - {type: xml-element, offset: 251, content: '', id: KR3f0036_CHANT_005-bkkxmlele29}
+  - {type: 'tls:seg', offset: 251, content: '', id: KR3f0036_CHANT_005-7a.1}
+  - {type: 'tls:seg', offset: 251, content: '', id: KR3f0036_CHANT_005-7a.2}
+  - {type: variant, offset: 251, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 251, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 251, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 253, content: ：, id: KR3f0036_CHANT_005-bkkpn47}
+  - {type: 'tls:seg', offset: 253, content: '', id: KR3f0036_CHANT_005-7a.3}
+  - {type: punctuation, offset: 262, content: 。, id: KR3f0036_CHANT_005-bkkpn48}
+  - {type: xml-element, offset: 262, content: '', id: KR3f0036_CHANT_005-bkkxmlele30}
+  - {type: xml-element, offset: 262, content: '', id: KR3f0036_CHANT_005-bkkxmlele31}
+  - {type: 'tls:seg', offset: 262, content: '', id: KR3f0036_CHANT_005-7a.4}
+  - {type: variant, offset: 262, length: 0, content: '', WYG: 術曰列錢一百三十一貫八百一十文為實并絲貴賤價得九十八文為法以法除實得絲一千三百四十五兩以十六兩除之得八十四斤餘一兩次置之以三十斤除之即得}
+  - {type: page-break, offset: 262, content: '', id: KR3f0036_WYG_005-3b, image: WYG0797/WYG0797-0191d.png}
+  - {type: variant, offset: 262, length: 0, content: '', krp: 術曰列錢一百三十一貫八百一十文為實并絲貴賤價得九十八文為法以法除實得絲一千三百四十五兩以十六兩除之得八十四斤餘一兩次置之以三十斤除之即得}
+  - {type: variant, offset: 266, length: 1, content: 匹, WYG: 疋}
+  - {type: variant, offset: 266, length: 1, content: 匹, krp: 疋}
+  - {type: punctuation, offset: 267, content: ，, id: KR3f0036_CHANT_005-bkkpn49}
+  - {type: 'tls:seg', offset: 267, content: '', id: KR3f0036_CHANT_005-7a.5}
+  - {type: variant, offset: 271, length: 1, content: 文, WYG: ''}
+  - {type: variant, offset: 271, length: 1, content: 文, krp: ''}
+  - {type: punctuation, offset: 272, content: 。, id: KR3f0036_CHANT_005-bkkpn50}
+  - {type: 'tls:seg', offset: 272, content: '', id: KR3f0036_CHANT_005-7a.6}
+  - {type: punctuation, offset: 273, content: ：, id: KR3f0036_CHANT_005-bkkpn51}
+  - {type: 'tls:seg', offset: 273, content: '', id: KR3f0036_CHANT_005-7a.7}
+  - {type: punctuation, offset: 275, content: 、, id: KR3f0036_CHANT_005-bkkpn52}
+  - {type: punctuation, offset: 277, content: 、, id: KR3f0036_CHANT_005-bkkpn53}
+  - {type: variant, offset: 281, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 281, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 283, content: ？, id: KR3f0036_CHANT_005-bkkpn54}
+  - {type: xml-element, offset: 283, content: '', id: KR3f0036_CHANT_005-bkkxmlele32}
+  - {type: xml-element, offset: 283, content: '', id: KR3f0036_CHANT_005-bkkxmlele33}
+  - {type: 'tls:seg', offset: 283, content: '', id: KR3f0036_CHANT_005-7a.8}
+  - {type: variant, offset: 283, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 283, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 283, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 285, content: ：, id: KR3f0036_CHANT_005-bkkpn55}
+  - {type: 'tls:seg', offset: 285, content: '', id: KR3f0036_CHANT_005-7a.9}
+  - {type: punctuation, offset: 287, content: ，, id: KR3f0036_CHANT_005-bkkpn56}
+  - {type: 'tls:seg', offset: 287, content: '', id: KR3f0036_CHANT_005-7a.10}
+  - {type: punctuation, offset: 290, content: ；, id: KR3f0036_CHANT_005-bkkpn57}
+  - {type: 'tls:seg', offset: 290, content: '', id: KR3f0036_CHANT_005-7a.11}
+  - {type: punctuation, offset: 292, content: ，, id: KR3f0036_CHANT_005-bkkpn58}
+  - {type: 'tls:seg', offset: 292, content: '', id: KR3f0036_CHANT_005-7a.12}
+  - {type: punctuation, offset: 295, content: ；, id: KR3f0036_CHANT_005-bkkpn59}
+  - {type: 'tls:seg', offset: 295, content: '', id: KR3f0036_CHANT_005-7a.13}
+  - {type: punctuation, offset: 297, content: ，, id: KR3f0036_CHANT_005-bkkpn60}
+  - {type: 'tls:seg', offset: 297, content: '', id: KR3f0036_CHANT_005-7a.14}
+  - {type: punctuation, offset: 300, content: 。, id: KR3f0036_CHANT_005-bkkpn61}
+  - {type: xml-element, offset: 300, content: '', id: KR3f0036_CHANT_005-bkkxmlele34}
+  - {type: xml-element, offset: 300, content: '', id: KR3f0036_CHANT_005-bkkxmlele35}
+  - {type: 'tls:seg', offset: 300, content: '', id: KR3f0036_CHANT_005-8a.1}
+  - {type: 'tls:seg', offset: 300, content: '', id: KR3f0036_CHANT_005-8a.2}
+  - {type: variant, offset: 300, length: 0, content: '', WYG: 術曰列錢八貫以四十尺除之即尺價進位即丈價退位即寸價}
+  - {type: page-break, offset: 300, content: '', id: KR3f0036_WYG_005-4a, image: WYG0797/WYG0797-0192a.png}
+  - {type: variant, offset: 300, length: 0, content: '', krp: 術曰列錢八貫以四十尺除之即尺價進位即丈價退位即寸價}
+  - {type: punctuation, offset: 305, content: ，, id: KR3f0036_CHANT_005-bkkpn62}
+  - {type: 'tls:seg', offset: 305, content: '', id: KR3f0036_CHANT_005-8a.3}
+  - {type: punctuation, offset: 312, content: 。, id: KR3f0036_CHANT_005-bkkpn63}
+  - {type: 'tls:seg', offset: 312, content: '', id: KR3f0036_CHANT_005-8a.4}
+  - {type: punctuation, offset: 313, content: ：, id: KR3f0036_CHANT_005-bkkpn64}
+  - {type: 'tls:seg', offset: 313, content: '', id: KR3f0036_CHANT_005-8a.5}
+  - {type: variant, offset: 315, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 315, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 317, content: ？, id: KR3f0036_CHANT_005-bkkpn65}
+  - {type: xml-element, offset: 317, content: '', id: KR3f0036_CHANT_005-bkkxmlele36}
+  - {type: xml-element, offset: 317, content: '', id: KR3f0036_CHANT_005-bkkxmlele37}
+  - {type: 'tls:seg', offset: 317, content: '', id: KR3f0036_CHANT_005-8a.6}
+  - {type: variant, offset: 317, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 317, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 317, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 319, content: ：, id: KR3f0036_CHANT_005-bkkpn66}
+  - {type: 'tls:seg', offset: 319, content: '', id: KR3f0036_CHANT_005-8a.7}
+  - {type: punctuation, offset: 321, content: 。, id: KR3f0036_CHANT_005-bkkpn67}
+  - {type: xml-element, offset: 321, content: '', id: KR3f0036_CHANT_005-bkkxmlele38}
+  - {type: xml-element, offset: 321, content: '', id: KR3f0036_CHANT_005-bkkxmlele39}
+  - {type: 'tls:seg', offset: 321, content: '', id: KR3f0036_CHANT_005-8a.8}
+  - {type: variant, offset: 321, length: 0, content: '', WYG: 術曰列金二斤以十六兩乗之得三十二兩又以二十四銖乗之得七百六十八銖案原本脱得字今補以九十六人除之即得}
+  - {type: variant, offset: 321, length: 0, content: '', krp: 術曰列金二斤以十六兩乗之得三十二兩又以二十四銖乗之得七百六十八銖案原本脱得字今補以九十六人除之即得}
+  - {type: punctuation, offset: 337, content: ，, id: KR3f0036_CHANT_005-bkkpn68}
+  - {type: 'tls:seg', offset: 337, content: '', id: KR3f0036_CHANT_005-8a.9}
+  - {type: punctuation, offset: 343, content: 。, id: KR3f0036_CHANT_005-bkkpn69}
+  - {type: 'tls:seg', offset: 343, content: '', id: KR3f0036_CHANT_005-8a.10}
+  - {type: punctuation, offset: 344, content: ：, id: KR3f0036_CHANT_005-bkkpn70}
+  - {type: 'tls:seg', offset: 344, content: '', id: KR3f0036_CHANT_005-8a.11}
+  - {type: variant, offset: 345, length: 1, content: 幾, WYG: 㡬}
+  - {type: variant, offset: 345, length: 1, content: 幾, krp: 㡬}
+  - {type: punctuation, offset: 347, content: ？, id: KR3f0036_CHANT_005-bkkpn71}
+  - {type: xml-element, offset: 347, content: '', id: KR3f0036_CHANT_005-bkkxmlele40}
+  - {type: xml-element, offset: 347, content: '', id: KR3f0036_CHANT_005-bkkxmlele41}
+  - {type: 'tls:seg', offset: 347, content: '', id: KR3f0036_CHANT_005-9a.1}
+  - {type: 'tls:seg', offset: 347, content: '', id: KR3f0036_CHANT_005-9a.2}
+  - {type: variant, offset: 347, length: 1, content: 荅, WYG: 答}
+  - {type: variant, offset: 347, length: 1, content: 荅, krp: 答}
+  - {type: substitution, offset: 347, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
+  - {type: punctuation, offset: 349, content: ：, id: KR3f0036_CHANT_005-bkkpn72}
+  - {type: 'tls:seg', offset: 349, content: '', id: KR3f0036_CHANT_005-9a.3}
+  - {type: variant, offset: 349, length: 1, content: 一, WYG: 二}
+  - {type: variant, offset: 349, length: 1, content: 一, krp: 二}
+  - {type: variant, offset: 361, length: 1, content: 奇, WYG: 竒}
+  - {type: variant, offset: 361, length: 1, content: 奇, krp: 竒}
+  - {type: variant, offset: 367, length: 1, content: 釐, WYG: 氂術曰列錢二百三十八貫五百七十三文足以九十二除之即得五曹算經卷五}
+  - {type: page-break, offset: 367, content: '', id: KR3f0036_WYG_005-4b, image: WYG0797/WYG0797-0192b.png}
+  - {type: variant, offset: 367, length: 1, content: 釐, krp: 氂術曰列錢二百三十八貫五百七十三文足以九十二除之即得五曹算經卷五}
+  - {type: punctuation, offset: 368, content: 。, id: KR3f0036_CHANT_005-bkkpn73}
+  - {type: xml-element, offset: 368, content: '', id: KR3f0036_CHANT_005-bkkxmlele42}
+  back: []
+hash: sha256:09d9f5a4fbf85ef91855c21c44778eb63a1e5846ba3294f632e711c3a4116f6a
